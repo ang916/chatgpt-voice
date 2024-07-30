@@ -9,16 +9,22 @@ This project is a simple virtual assistant using Python, Tkinter for GUI, Whispe
 - [Features](#features)
 
 ## Download
-You can download the example mic image here: ![Download the Image](/mic1.png)
+You can download the example mic image here: 
+
+![Download the Image](/mic1.png)
 
 ## Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ang916/chatgpt-voice.git
 
-2. **Install the Required Dependencies**:
-Install the required Dependencies in the requirements.txt
+2. **Install the Required Dependencies**: Install the required Dependencies in the requirements.txt
 
+3. **API KEY**: Make sure you have your own **OpenAI API key** and **GOOGLE CLOUD CREDENTIAL KEY**.
+
+4. **Hide API Key**: (Windows)
+   ```bash
+   setx OPENAI_API_KEY "your_openai_api_key"
 
 ## Usage
 
