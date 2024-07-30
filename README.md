@@ -22,7 +22,7 @@ You can download the example mic image here:
 
 3. **API KEY**: Make sure you have your own **OpenAI API key** and **GOOGLE CLOUD CREDENTIAL KEY**.
 
-4. **Hide API Key**: (Windows)
+4. **Hide API Key**: (Windows) Set Environment Variable Using Command Prompt
    ```bash
    setx OPENAI_API_KEY "your_openai_api_key"
 
