@@ -17,7 +17,7 @@ You can download the example mic image here: ![Download the Image](/mic1.png)
    git clone https://github.com/ang916/chatgpt-voice.git
 
 2. **Install the Required Dependencies**:
-3. 
+Install the required Dependencies in the requirements.txt
 
 
 ## Usage
