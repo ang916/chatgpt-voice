@@ -19,7 +19,7 @@ This project is a simple virtual assistant using Python, Tkinter for GUI, Whispe
 
 
 ##  Features
-Voice Recognition: Utilizes Whisper for recognizing spoken input.
-Conversational AI: Integrates OpenAI's GPT-3.5-turbo for generating responses.
-Text-to-Speech: Uses Google Cloud Text-to-Speech to convert text responses to speech.
-Graphical User Interface: Built with Tkinter, featuring a mic button and text output areas.
+#Voice Recognition: Utilizes Whisper for recognizing spoken input.
+#Conversational AI: Integrates OpenAI's GPT-3.5-turbo for generating responses.
+#Text-to-Speech: Uses Google Cloud Text-to-Speech to convert text responses to speech.
+#Graphical User Interface: Built with Tkinter, featuring a mic button and text output areas.
