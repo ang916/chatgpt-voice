@@ -22,7 +22,7 @@ This project is a simple virtual assistant using Python, Tkinter for GUI, Whispe
 
 1. **Clone the Repository**:
    ```bash
-   python3 ChatGPT Voice Assistant.py
+   python3 chatgpt_voice_assistant.py
 
 
 ##  Features
