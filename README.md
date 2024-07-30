@@ -18,6 +18,13 @@ This project is a simple virtual assistant using Python, Tkinter for GUI, Whispe
    git clone https://github.com/yourusername/your-repository.git
 
 
+## Usage
+
+1. **Clone the Repository**:
+   ```bash
+   python3 ChatGPT Voice Assistant.py
+
+
 ##  Features
 -   Voice Recognition: Utilizes Whisper for recognizing spoken input.
 -   Conversational AI: Integrates OpenAI's GPT-3.5-turbo for generating responses.
