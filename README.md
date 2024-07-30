@@ -11,7 +11,10 @@ This project is a simple virtual assistant using Python, Tkinter for GUI, Whispe
 - [License](#license)
 - [Contact Information](#contact-information)
 
+## Download
+You can download the example mic image here: ![Download the Image](/mic1.png)
 ## Installation
+
 
 1. **Clone the Repository**:
    ```bash
